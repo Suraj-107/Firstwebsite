@@ -1,0 +1,56 @@
+
+.sample{
+	color: blue;
+	text-align: center;
+	padding-top: 20px;
+
+}
+h3{
+	color: white;
+	text-align: center;
+	padding: 20px;
+	text size: 50px;
+    font-family: monospace;
+    background-color: black;
+
+
+}
+div{
+	text-align: center;
+	padding: 30px;
+
+}
+hr{
+	width: 50%;
+	border: 1px solid black;
+
+}
+header{
+	background-color: black;
+	
+}
+ul{
+  list-style: none;
+}
+li{
+	display: inline;
+	margin: 150px;
+
+}
+li a{
+	color: white;
+	
+	text-decoration: none;
+}
+li a:hover{
+	color: red;
+	
+	text-decoration: none;
+}
+footer{
+	background-color: black;
+	color:white ;
+	text-align: center;
+	padding: 10px;
+	margin-top: 15px;
+}
